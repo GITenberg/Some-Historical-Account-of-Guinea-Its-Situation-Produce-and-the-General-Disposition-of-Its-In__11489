@@ -1,0 +1,33 @@
+_repo: Some-Historical-Account-of-Guinea-Its-Situation-Produce-and-the-General-Disposition-of-Its-In__11489
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Benezet, Anthony
+    birthdate: 1713
+    deathdate: 1784
+    gutenberg_agent_id: '3995'
+    url: http://www.gutenberg.org/2009/agents/3995
+    wikipedia: http://en.wikipedia.org/wiki/Anthony_Benezet
+description: ''
+gutenberg_bookshelf: Slavery
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11489'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Guinea -- Description and travel -- Early works to 1800'
+- !lcsh 'Slavery -- Guinea -- Early works to 1800'
+- !lcc 'HT'
+- !lcsh 'Slavery -- Early works to 1800'
+- !lcsh 'Slave trade -- Early works to 1800'
+- GITenberg
+title: 'Some Historical Account of Guinea, Its Situation, Produce, and the General
+  Disposition of Its Inhabitants
+
+  An Inquiry into the Rise and Progress of the Slave Trade, Its Nature and Lamentable
+  Effects'
+url: http://www.gutenberg.org/ebooks/11489
